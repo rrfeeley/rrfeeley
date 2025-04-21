@@ -1,6 +1,5 @@
 Welcome:
 
-- 🔭 I’m currently working on Mobile Apps, website
-- 🌱 I’m currently learning React Native, C#
+- 🔭 I’m currently working on mobile app, websites
 - 💬 Ask me about Alaska
-- ⚡ Fun fact: Every fact is a fun fact to someone
+- ⚡ Fun fact: gratitude makes you happy
